@@ -11,7 +11,7 @@ public class RepeatingKeyDecoder
         // - Strip out any non-alphabetic characters
 
 
-        // Step 2: Read the encrypted message from "message.txt"
+        // Step 2: Read the encrypted message from "SUMMER.txt". The name is the keyword.
         // Hint: Use a try/catch block for FileNotFoundException
 
 
