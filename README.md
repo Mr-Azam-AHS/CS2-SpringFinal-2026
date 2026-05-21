@@ -1,6 +1,8 @@
 # CS2-SpringFinal-2026
 
 ## Repeating Key Decoder
+**_NOTE:You may use your previous cryptography labs to complete this part of the final_**
+
 Write a Java program that decrypts a message using a repeating keyword cipher. This is similar to the Caesar shift cipher from the labs, but instead of one fixed shift for the whole message, the shift changes with each letter based on a keyword.
 
 How it works:
